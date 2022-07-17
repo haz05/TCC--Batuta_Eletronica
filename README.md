@@ -1,2 +1,2 @@
-# TCC--Batuta_Eletronica
-Trabalho de Conclusão de Curso: BATUTA ELETRÔNICA PARA INCLUSÃO DE MÚSICOS COM DEFICIÊNCIA VISUAL EM ORQUESTRAS SINFÔNICAS
+TCC--Batuta_Eletronica
+Batuta Eletrônica para Inclusão de Músicos com Deficiência Visual em Orquestras Sinfônicas
