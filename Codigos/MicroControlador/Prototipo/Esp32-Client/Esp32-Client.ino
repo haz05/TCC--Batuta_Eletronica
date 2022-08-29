@@ -48,7 +48,7 @@ typedef struct struct_message {
 // Create a struct_message called myData
 struct_message myData;
 
-float fila[5] = {0, 0, 0, 0, 0};
+float fila[3] = {0, 0, 0};
 
 void sinal() {
   if (digitalRead(15) == HIGH) {
@@ -79,7 +79,7 @@ void Button() {
 
 void func_fila(float x) {
   //confere();
-  for (int i = 4; i >= 0; i--) {
+  for (int i = 2; i >= 0; i--) {
     fila[i] = fila[i - 1];
   }
   fila[0] = x;
